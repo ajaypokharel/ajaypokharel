@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="./intro.png" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ajaypokharel&theme=nightowl&show_icons=true" />
 <img align="left" width="47%" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypokharel&theme=vision-friendly-dark" />
